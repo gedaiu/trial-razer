@@ -8,6 +8,6 @@
 	"license": "MIT",
 	"dependencies": {
 		"trial:lifecycle": "*",
-		"razer-d": "~>0.1.1"
+		"razer-d": "~>0.2.0"
 	}
 }
