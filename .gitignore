@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+trial-razer.so
+trial-razer.dylib
+trial-razer.dll
+trial-razer.a
+trial-razer.lib
+trial-razer-test-*
+*.exe
+*.o
+*.obj
+*.lst
+trial-razer
+libtrial-razer.a

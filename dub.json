@@ -1,0 +1,13 @@
+{
+	"name": "trial-razer",
+	"authors": [
+		"Bogdan Szabo"
+	],
+	"description": "A trial plugin that use the Razer Chroma LEDs to display the test results",
+	"copyright": "Copyright © 2018, Bogdan Szabo",
+	"license": "MIT",
+	"dependencies": {
+		"trial:lifecycle": "*",
+		"razer-d": "~>0.1.1"
+	}
+}
